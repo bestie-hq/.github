@@ -25,4 +25,4 @@
 
 <p align="center">we pay creators to post about bestie. <b><a href="https://askbestie.co/creators">join our creator program</a></b></p>
 
-<p align="center"><a href="https://askbestie.co">askbestie.co</a> · <a href="https://askbestie.co/privacy">privacy</a> · <a href="https://askbestie.co/terms">terms</a></p>
+<p align="center"><a href="https://askbestie.co">website</a> · <a href="https://askbestie.co/privacy">privacy</a> · <a href="https://askbestie.co/terms">terms</a></p>
