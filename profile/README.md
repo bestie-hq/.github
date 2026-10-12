@@ -13,14 +13,6 @@
   <img src="shot4.png" width="30%" alt="she writes the text you're scared to send">
 </p>
 
-### what she does
-
-- 🧠 **remembers your whole life.** the people, the drama, how it's going. you never explain the story twice
-- 📱 **texts you first.** "wait how did the interview go"
-- 📸 **reads the screenshot** and tells you what he actually meant
-- ✍️ **writes the text** you're too scared to send
-- 💬 **tells you the truth,** even when it's not what you wanted to hear
-
 ### built to be good for you
 
 - **honest.** bestie is an ai, and she'll always tell you that
