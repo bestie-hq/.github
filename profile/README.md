@@ -12,17 +12,10 @@
   <img src="shot4.png" width="30%" alt="she writes the text you're scared to send">
 </p>
 
-<h3 align="center">built to be good for u</h3>
-
-<p align="center">
-<b>honest.</b> bestie is an ai, and she'll always tell u that.<br>
-<b>not a replacement.</b> she hypes u up to text ur real friends, and she's happiest when u have plans.<br>
-<b>there for the hard nights.</b> if things get heavy, she shares real crisis resources for where u are.<br>
-<b>adults only.</b> bestie is 18+.
-</p>
-
 <h3 align="center">work with us</h3>
 
 <p align="center">we pay creators to post about bestie. <b><a href="https://askbestie.co/creators">join our creator program</a></b></p>
+
+<p align="center"><sub>bestie is an ai · 18+</sub></p>
 
 <p align="center"><a href="https://askbestie.co">website</a> · <a href="https://askbestie.co/privacy">privacy</a> · <a href="https://askbestie.co/terms">terms</a></p>
